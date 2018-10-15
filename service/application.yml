@@ -1,0 +1,7 @@
+mysql:
+  addr: tcp(127.0.0.1:3306)/test?charset=utf8&parseTime=True&loc=Local
+  username: root
+  password:
+redis:
+  addr: 127.0.0.1:6379
+  password:
